@@ -1,0 +1,9 @@
+
+body {
+  color: black;
+}
+
+.menu-item {
+  background-color: silver;
+  margin:20px auto 20px;
+}
